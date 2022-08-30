@@ -1,0 +1,7 @@
+{
+	  "id"        : "preside-ext-admin-theme-experimental"
+	, "title"     : "Experimental Admin Theme Rewrite"
+	, "author"    : "Pixl8 Group"
+	, "version"   : "$VERSION_NUMBER"
+	, "dependsOn" : []
+}
